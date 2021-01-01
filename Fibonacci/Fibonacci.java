@@ -1,4 +1,4 @@
-package com.tutorial;
+package BelajarInteger;
 
 
 import java.util.*;
